@@ -1,1 +1,5 @@
 print ("Hello word")
+print("estoy aprendiendo a usar github")
+print ("mi nombre es Samuel") 
+print("la musica es mi pasion")
+print ("me gusta el skate")
